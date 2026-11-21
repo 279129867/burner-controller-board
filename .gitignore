@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 仿真临时产物（波形截图、导出数据按需保留）
+*.log
+*.tmp
+
+# LTspice 临时文件
+*.log
+.net
+*.op.raw
